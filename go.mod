@@ -1,4 +1,4 @@
-module github.com/markbates/goth
+module github.com/bupd/goth
 
 go 1.18
 

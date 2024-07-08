@@ -3,8 +3,8 @@ package eveonline_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/eveonline"
+	"github.com/bupd/goth"
+	"github.com/bupd/goth/providers/eveonline"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,8 +3,8 @@ package onedrive_test
 import (
 	"testing"
 
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/onedrive"
+	"github.com/bupd/goth"
+	"github.com/bupd/goth/providers/onedrive"
 	"github.com/stretchr/testify/assert"
 )
 
